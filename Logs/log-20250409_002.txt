@@ -1,0 +1,200 @@
+2025-04-09 19:21:30.094 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:21:30.292 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 19:21:30.292 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:21:30.357 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:21:30.357 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:21:30.357 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:23:22.541 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 19:23:22.653 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 307 0 null 115.5577ms
+2025-04-09 19:23:22.695 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 19:23:22.731 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 36.8762ms
+2025-04-09 19:23:22.732 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 19:24:04.246 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:24:04.469 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 19:24:04.470 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:24:04.528 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:24:04.529 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:24:04.529 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:24:19.612 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 19:24:19.720 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 111.4057ms
+2025-04-09 19:24:19.721 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 19:24:59.290 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:24:59.375 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 19:24:59.376 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:24:59.420 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:24:59.420 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:24:59.420 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:24:59.543 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 19:24:59.600 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 57.9776ms
+2025-04-09 19:24:59.606 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 19:25:13.735 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:25:13.924 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 19:25:13.989 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:25:13.990 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:25:13.990 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:25:14.059 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 139.561ms
+2025-04-09 19:25:14.077 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 19:25:23.317 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:25:23.457 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 19:25:23.561 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:25:23.561 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:25:23.561 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:25:23.626 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 172.1769ms
+2025-04-09 19:25:23.634 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 19:35:02.607 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:35:02.747 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 19:35:02.807 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:35:02.812 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:35:02.812 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:35:02.912 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 168.8648ms
+2025-04-09 19:35:02.918 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 19:35:43.050 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:35:43.141 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 19:35:43.141 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:35:43.185 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:35:43.186 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:35:43.186 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:37:34.984 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:37:35.173 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 19:37:35.173 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:37:35.230 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:37:35.230 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:37:35.230 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:43:35.446 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:43:35.504 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:43:35.506 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:43:35.506 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:43:35.506 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:48:27.489 +08:00 [INF] Application is shutting down...
+2025-04-09 19:48:31.054 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:48:31.116 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:48:31.117 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:48:31.117 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:48:31.117 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:51:00.499 +08:00 [INF] Application is shutting down...
+2025-04-09 19:51:03.838 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:51:03.898 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:51:03.899 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:51:03.899 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:51:03.899 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:52:02.760 +08:00 [INF] Application is shutting down...
+2025-04-09 19:52:05.661 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:52:05.719 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:52:05.721 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:52:05.721 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:52:05.721 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:52:13.059 +08:00 [INF] Application is shutting down...
+2025-04-09 19:57:52.577 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:57:52.637 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:57:52.638 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:57:52.638 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:57:52.638 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 19:58:43.552 +08:00 [INF] Application is shutting down...
+2025-04-09 19:58:46.607 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 19:58:46.667 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 19:58:46.669 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 19:58:46.669 +08:00 [INF] Hosting environment: Development
+2025-04-09 19:58:46.669 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 20:04:27.106 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 20:04:27.124 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 20:04:27.157 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 404 0 null 52.0905ms
+2025-04-09 20:04:27.164 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5197/, Response status code: 404
+2025-04-09 20:04:29.244 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 20:04:29.246 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 404 0 null 2.2133ms
+2025-04-09 20:04:29.246 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5197/, Response status code: 404
+2025-04-09 22:04:49.581 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:04:49.841 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 22:04:49.846 +08:00 [INF] Now listening on: http://localhost:5197
+2025-04-09 22:04:49.895 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:04:49.895 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:04:49.895 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:04:57.566 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 22:04:57.708 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 145.2844ms
+2025-04-09 22:04:57.709 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 22:04:58.739 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 22:04:58.747 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 307 0 null 8.3463ms
+2025-04-09 22:04:58.751 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 22:04:58.753 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 1.4865ms
+2025-04-09 22:04:58.753 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 22:04:59.516 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 22:04:59.517 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 307 0 null 1.208ms
+2025-04-09 22:04:59.520 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 22:04:59.522 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 2.385ms
+2025-04-09 22:04:59.523 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 22:05:06.321 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5197/ - null null
+2025-04-09 22:05:06.323 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5197/ - 307 0 null 1.8219ms
+2025-04-09 22:05:06.331 +08:00 [INF] Request starting HTTP/2 GET https://localhost:7084/ - null null
+2025-04-09 22:05:06.332 +08:00 [INF] Request finished HTTP/2 GET https://localhost:7084/ - 404 0 null 1.5661ms
+2025-04-09 22:05:06.332 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7084/, Response status code: 404
+2025-04-09 22:06:02.317 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:06:02.488 +08:00 [INF] Now listening on: https://localhost:7084
+2025-04-09 22:06:02.488 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:06:02.548 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:06:02.549 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:06:02.549 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:07:14.044 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:07:14.098 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:07:14.099 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:07:14.100 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:07:14.100 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:07:21.980 +08:00 [INF] Application is shutting down...
+2025-04-09 22:07:33.769 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:07:33.823 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:07:33.825 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:07:33.825 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:07:33.825 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:09:39.462 +08:00 [INF] Application is shutting down...
+2025-04-09 22:09:42.185 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:09:42.239 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:09:42.240 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:09:42.241 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:09:42.241 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:10:42.231 +08:00 [INF] Application is shutting down...
+2025-04-09 22:11:03.315 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:11:03.371 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:11:03.373 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:11:03.373 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:11:03.373 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:12:23.974 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:12:23.990 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:12:24.001 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 28.375ms
+2025-04-09 22:12:24.007 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:12:29.224 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:12:29.226 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 2.3308ms
+2025-04-09 22:12:29.226 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:12:40.123 +08:00 [INF] Application is shutting down...
+2025-04-09 22:12:45.927 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:12:45.981 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:12:45.982 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:12:45.982 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:12:45.982 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:13:21.465 +08:00 [INF] Application is shutting down...
+2025-04-09 22:13:27.241 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:13:27.299 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:13:27.300 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:13:27.301 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:13:27.301 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:13:48.066 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:13:48.083 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:13:48.129 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 63.8147ms
+2025-04-09 22:13:48.135 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:13:53.186 +08:00 [INF] Application is shutting down...
+2025-04-09 22:13:55.968 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:13:56.144 +08:00 [INF] Now listening on: https://localhost:5000
+2025-04-09 22:13:56.144 +08:00 [INF] Now listening on: https://localhost:5001
+2025-04-09 22:13:56.205 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:13:56.205 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:13:56.205 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:14:05.534 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5001/ - null null
+2025-04-09 22:14:05.669 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5001/ - 404 0 null 138.0093ms
+2025-04-09 22:14:05.670 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:5001/, Response status code: 404
+2025-04-09 22:17:30.494 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:17:30.551 +08:00 [INF] Now listening on: http://localhost:5845
+2025-04-09 22:17:30.553 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:17:30.553 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:17:30.553 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:19:20.720 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:19:20.781 +08:00 [INF] Now listening on: http://localhost:5845
+2025-04-09 22:19:20.782 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:19:20.783 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:19:20.783 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI

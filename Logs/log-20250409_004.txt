@@ -1,0 +1,61 @@
+2025-04-09 22:21:46.076 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:21:46.270 +08:00 [ERR] Hosting failed to start
+System.IO.IOException: Failed to bind to address https://127.0.0.1:5845: address already in use.
+ ---> Microsoft.AspNetCore.Connections.AddressInUseException: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+ ---> System.Net.Sockets.SocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted.
+   at System.Net.Sockets.Socket.UpdateStatusAfterSocketErrorAndThrowException(SocketError error, Boolean disconnectOnFailure, String callerName)
+   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportOptions.CreateDefaultBoundListenSocket(EndPoint endpoint)
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketConnectionListener.Bind()
+   at Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.SocketTransportFactory.BindAsync(EndPoint endpoint, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Infrastructure.TransportManager.BindAsync(EndPoint endPoint, ConnectionDelegate connectionDelegate, EndpointConfig endpointConfig, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.<>c__DisplayClass28_0`1.<<StartAsync>g__OnBind|0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.BindEndpointAsync(ListenOptions endpoint, AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.LocalhostListenOptions.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.AddressBinder.AddressesStrategy.BindAsync(AddressBindContext context, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.BindAsync(CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServerImpl.StartAsync[TContext](IHttpApplication`1 application, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync(CancellationToken cancellationToken)
+   at Microsoft.Extensions.Hosting.Internal.Host.<StartAsync>b__14_1(IHostedService service, CancellationToken token)
+   at Microsoft.Extensions.Hosting.Internal.Host.ForeachService[T](IEnumerable`1 services, CancellationToken token, Boolean concurrent, Boolean abortOnFirstException, List`1 exceptions, Func`3 operation)
+2025-04-09 22:23:20.990 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:23:21.127 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 22:23:21.194 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:23:21.194 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:23:21.194 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:23:21.312 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 188.5005ms
+2025-04-09 22:23:21.318 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 22:24:16.366 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:24346/ - null null
+2025-04-09 22:24:16.381 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:24346/ - 307 null null 15.6813ms
+2025-04-09 22:24:16.391 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 22:24:16.444 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 53.426ms
+2025-04-09 22:24:16.444 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 22:24:16.474 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:24346/ - null null
+2025-04-09 22:24:16.507 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:24346/ - 307 null null 32.6966ms
+2025-04-09 22:24:16.513 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44396/ - null null
+2025-04-09 22:24:16.516 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44396/ - 404 null null 2.7264ms
+2025-04-09 22:24:16.516 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44396/, Response status code: 404
+2025-04-09 22:25:42.844 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:25:42.902 +08:00 [INF] Now listening on: http://localhost:5845
+2025-04-09 22:25:42.903 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:25:42.903 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:25:42.903 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:28:30.143 +08:00 [INF] Application is shutting down...
+2025-04-09 22:28:33.123 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:28:33.180 +08:00 [INF] Now listening on: http://localhost:5845
+2025-04-09 22:28:33.182 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:28:33.182 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:28:33.182 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:29:24.349 +08:00 [INF] Application is shutting down...
+2025-04-09 22:29:27.493 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:29:27.552 +08:00 [INF] Now listening on: http://localhost:5845
+2025-04-09 22:29:27.554 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:29:27.554 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:29:27.554 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:32:55.350 +08:00 [INF] Application is shutting down...

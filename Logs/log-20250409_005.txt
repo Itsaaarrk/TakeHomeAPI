@@ -1,0 +1,627 @@
+2025-04-09 22:31:50.218 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:31:50.372 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:31:50.427 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:31:50.427 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:31:50.427 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:31:56.044 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:31:56.148 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:31:56.191 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 150.4024ms
+2025-04-09 22:31:56.193 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:33:13.914 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:33:13.971 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:33:13.972 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:33:13.972 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:33:13.972 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:33:15.743 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:33:15.759 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:33:15.771 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 29.7105ms
+2025-04-09 22:33:15.777 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:35:29.816 +08:00 [INF] Application is shutting down...
+2025-04-09 22:39:58.736 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:39:58.818 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:39:58.820 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:39:58.821 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:39:58.821 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:40:20.427 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/ - null null
+2025-04-09 22:40:20.464 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:40:20.492 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/ - 404 0 null 66.6728ms
+2025-04-09 22:40:20.512 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/, Response status code: 404
+2025-04-09 22:40:49.583 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger - null null
+2025-04-09 22:40:49.587 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger - 301 0 null 4.8718ms
+2025-04-09 22:40:49.591 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:40:49.669 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 77.9726ms
+2025-04-09 22:40:49.694 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:40:49.701 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:40:49.701 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:40:49.705 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:40:49.705 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:40:49.709 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:40:49.710 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:40:49.711 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:40:49.713 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 7.8987ms
+2025-04-09 22:40:49.714 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 12.6767ms
+2025-04-09 22:40:49.714 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:40:49.717 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 22.4995ms
+2025-04-09 22:40:49.717 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 12.2815ms
+2025-04-09 22:40:49.724 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 23.2426ms
+2025-04-09 22:40:49.857 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:40:49.871 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:40:49.874 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:40:49.876 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 5.068ms
+2025-04-09 22:40:49.924 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:40:49.984 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 127.1554ms
+2025-04-09 22:40:54.869 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:40:54.873 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:40:54.876 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 6.9265ms
+2025-04-09 22:40:56.168 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:40:56.172 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:40:56.174 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 6.2838ms
+2025-04-09 22:41:07.102 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - null null
+2025-04-09 22:41:07.104 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - 200 null text/html;charset=utf-8 2.2013ms
+2025-04-09 22:41:07.313 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:41:07.317 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:41:07.319 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 5.9694ms
+2025-04-09 22:42:58.921 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:42:58.925 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:42:58.927 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 6.2232ms
+2025-04-09 22:42:59.010 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2025-04-09 22:42:59.016 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 6.185ms
+2025-04-09 22:42:59.019 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2025-04-09 22:45:21.908 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:45:21.911 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:45:21.913 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 5.551ms
+2025-04-09 22:51:25.632 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - null null
+2025-04-09 22:51:25.634 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - 200 null text/html;charset=utf-8 2.1052ms
+2025-04-09 22:51:25.655 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:51:25.656 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:51:25.657 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:51:25.658 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:51:25.658 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:51:25.658 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:51:25.660 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:51:25.664 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:51:25.665 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 7.0806ms
+2025-04-09 22:51:25.665 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:51:25.666 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 10.5601ms
+2025-04-09 22:51:25.668 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 11.2726ms
+2025-04-09 22:51:25.669 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 11.0417ms
+2025-04-09 22:51:25.671 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 13.5019ms
+2025-04-09 22:51:25.805 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:51:25.805 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:51:25.808 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:25.809 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:51:25.810 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 5.6121ms
+2025-04-09 22:51:25.811 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 5.762ms
+2025-04-09 22:51:27.165 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - null null
+2025-04-09 22:51:27.166 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V1 - 200 null text/html;charset=utf-8 1.3738ms
+2025-04-09 22:51:27.187 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:51:27.188 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:51:27.188 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:51:27.188 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:51:27.188 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:51:27.189 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:51:27.191 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:51:27.196 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:51:27.196 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:51:27.198 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 9.6422ms
+2025-04-09 22:51:27.199 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 11.9043ms
+2025-04-09 22:51:27.200 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 11.7708ms
+2025-04-09 22:51:27.201 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 12.7593ms
+2025-04-09 22:51:27.202 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 13.5619ms
+2025-04-09 22:51:27.265 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:51:27.269 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:27.270 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:51:27.270 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 5.0887ms
+2025-04-09 22:51:27.272 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:51:27.275 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 5.2436ms
+2025-04-09 22:51:30.370 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:51:30.374 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:30.377 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 6.4393ms
+2025-04-09 22:51:31.597 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:51:31.602 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:31.604 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 6.8619ms
+2025-04-09 22:51:38.120 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:51:38.123 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:38.126 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 5.6399ms
+2025-04-09 22:51:45.373 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:51:45.375 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:51:45.377 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 4.5847ms
+2025-04-09 22:51:45.413 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2025-04-09 22:51:45.416 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 3.3828ms
+2025-04-09 22:51:45.418 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2025-04-09 22:51:49.503 +08:00 [INF] Application is shutting down...
+2025-04-09 22:52:00.318 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:52:00.375 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:52:00.378 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:52:00.379 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:52:00.379 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:52:02.561 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:52:02.573 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:52:02.588 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 404 0 null 27.5652ms
+2025-04-09 22:52:02.598 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/v2/swagger.json, Response status code: 404
+2025-04-09 22:52:04.060 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:04.063 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 404 0 null 3.5572ms
+2025-04-09 22:52:04.065 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/index.html, Response status code: 404
+2025-04-09 22:52:09.474 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:52:09.477 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 404 0 null 2.767ms
+2025-04-09 22:52:09.479 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/v2/swagger.json, Response status code: 404
+2025-04-09 22:52:10.699 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:10.701 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 404 0 null 2.2827ms
+2025-04-09 22:52:10.704 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/index.html, Response status code: 404
+2025-04-09 22:52:31.429 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:31.431 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 404 0 null 1.9515ms
+2025-04-09 22:52:31.434 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/index.html, Response status code: 404
+2025-04-09 22:52:32.335 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:32.337 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 404 0 null 1.8437ms
+2025-04-09 22:52:32.339 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/index.html, Response status code: 404
+2025-04-09 22:52:33.450 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:33.450 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:52:33.453 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 404 0 null 3.3635ms
+2025-04-09 22:52:33.455 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 404 0 null 4.8891ms
+2025-04-09 22:52:33.458 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/index.html, Response status code: 404
+2025-04-09 22:52:33.461 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/swagger/v2/swagger.json, Response status code: 404
+2025-04-09 22:52:35.608 +08:00 [INF] Application is shutting down...
+2025-04-09 22:52:42.605 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:52:42.672 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:52:42.675 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:52:42.675 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:52:42.676 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:52:44.853 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:52:44.918 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 66.2978ms
+2025-04-09 22:52:44.939 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:52:44.944 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:52:44.945 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:52:44.945 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:52:44.946 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:52:44.951 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:52:44.951 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:52:44.951 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:52:44.955 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 8.89ms
+2025-04-09 22:52:44.955 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 11.0137ms
+2025-04-09 22:52:44.956 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:52:44.957 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 18.9271ms
+2025-04-09 22:52:44.958 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 12.3799ms
+2025-04-09 22:52:44.964 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 19.1502ms
+2025-04-09 22:52:45.113 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:52:45.129 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:52:45.131 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:52:45.132 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 2.8905ms
+2025-04-09 22:52:45.157 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:52:45.190 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 76.833ms
+2025-04-09 22:52:47.946 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:52:47.949 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - MyApiProject.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), MyApiProject.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:52:47.950 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 4.1561ms
+2025-04-09 22:52:48.030 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2025-04-09 22:52:48.034 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:52:48.045 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 14.5994ms
+2025-04-09 22:52:48.047 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2025-04-09 22:53:21.687 +08:00 [INF] Application is shutting down...
+2025-04-09 22:54:33.016 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 22:54:33.082 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 22:54:33.084 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 22:54:33.085 +08:00 [INF] Hosting environment: Development
+2025-04-09 22:54:33.085 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 22:54:36.595 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html - null null
+2025-04-09 22:54:36.660 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 65.7618ms
+2025-04-09 22:54:36.678 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:54:36.678 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:54:36.678 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:54:36.678 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:54:36.679 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:54:36.687 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:54:36.688 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 8.9853ms
+2025-04-09 22:54:36.689 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 10.9098ms
+2025-04-09 22:54:36.690 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:54:36.690 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:54:36.692 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:54:36.696 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 18.3706ms
+2025-04-09 22:54:36.696 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 17.7925ms
+2025-04-09 22:54:36.697 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 18.6023ms
+2025-04-09 22:54:36.767 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 22:54:36.768 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:54:36.771 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:54:36.774 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 5.585ms
+2025-04-09 22:54:36.808 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:54:36.847 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 500 null application/json 79.4425ms
+2025-04-09 22:54:39.770 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:54:39.774 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:54:39.776 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 5.6694ms
+2025-04-09 22:54:41.437 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:54:41.440 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:54:41.442 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 4.4558ms
+2025-04-09 22:54:41.477 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2025-04-09 22:54:41.480 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 22:54:41.495 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 18.2387ms
+2025-04-09 22:54:41.498 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2025-04-09 22:54:43.171 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - null null
+2025-04-09 22:54:43.173 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - 200 null text/html;charset=utf-8 1.7094ms
+2025-04-09 22:54:43.189 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:54:43.191 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:54:43.191 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:54:43.191 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:54:43.191 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:54:43.191 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:54:43.192 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 3.8713ms
+2025-04-09 22:54:43.196 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:54:43.200 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:54:43.201 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:54:43.202 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 10.6267ms
+2025-04-09 22:54:43.205 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 14.1476ms
+2025-04-09 22:54:43.206 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 14.8166ms
+2025-04-09 22:54:43.207 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 15.9177ms
+2025-04-09 22:54:43.271 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:54:43.272 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:54:43.275 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:54:43.276 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:54:43.277 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 5.9027ms
+2025-04-09 22:54:43.278 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 6.2562ms
+2025-04-09 22:58:42.345 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - null null
+2025-04-09 22:58:42.347 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - 200 null text/html;charset=utf-8 1.7841ms
+2025-04-09 22:58:42.367 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 22:58:42.367 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 22:58:42.368 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 22:58:42.368 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 22:58:42.369 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 22:58:42.370 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 22:58:42.372 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 22:58:42.374 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 22:58:42.376 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 7.1349ms
+2025-04-09 22:58:42.378 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 10.7936ms
+2025-04-09 22:58:42.380 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 12.5258ms
+2025-04-09 22:58:42.381 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 12.6821ms
+2025-04-09 22:58:42.381 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 22:58:42.391 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 22.0046ms
+2025-04-09 22:58:42.462 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 22:58:42.465 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 22:58:42.466 +08:00 [ERR] Something went wrong: Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "GET api/v{version}/products" for actions - TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI), TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI). Actions require a unique method/path combination for Swagger/OpenAPI 2.0 and 3.0. Use ConflictingActionsResolver as a workaround or provide your own implementation of PathGroupSelector.
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.IteratorSelectIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`4 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(OpenApiDocument document, IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at TakeHomeAPI.Middleware.ExceptionMiddleware.InvokeAsync(HttpContext httpContext) in C:\Users\ARK\source\repos\TakeHomeAPI\Middleware\ExceptionMiddleware.cs:line 23
+2025-04-09 22:58:42.467 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 22:58:42.468 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 500 null application/json 5.9007ms
+2025-04-09 22:58:42.469 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 4.2414ms
+2025-04-09 23:04:07.345 +08:00 [INF] Application is shutting down...
+2025-04-09 23:04:10.877 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-09 23:04:10.944 +08:00 [INF] Now listening on: http://localhost:5000
+2025-04-09 23:04:10.947 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-09 23:04:10.947 +08:00 [INF] Hosting environment: Development
+2025-04-09 23:04:10.948 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-09 23:04:15.212 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - null null
+2025-04-09 23:04:15.278 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.html?urls.primaryName=My+API+V2 - 200 null text/html;charset=utf-8 66.5638ms
+2025-04-09 23:04:15.297 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-09 23:04:15.299 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.css - null null
+2025-04-09 23:04:15.300 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-09 23:04:15.300 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-09 23:04:15.300 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/index.js - null null
+2025-04-09 23:04:15.306 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-09 23:04:15.308 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-09 23:04:15.308 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-09 23:04:15.308 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 7.6652ms
+2025-04-09 23:04:15.308 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/index.css - 200 202 text/css 9.6976ms
+2025-04-09 23:04:15.311 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 10.9043ms
+2025-04-09 23:04:15.311 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-09 23:04:15.312 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 15.0647ms
+2025-04-09 23:04:15.319 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 19.1766ms
+2025-04-09 23:04:15.394 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 23:04:15.395 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-09 23:04:15.398 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-09 23:04:15.399 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 4.4716ms
+2025-04-09 23:04:15.453 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 59.4289ms
+2025-04-09 23:04:29.189 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-09 23:04:29.195 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 5.2401ms
+2025-04-09 23:04:31.437 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 23:04:31.443 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 5.5972ms
+2025-04-09 23:05:10.912 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-09 23:05:10.919 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 7.1776ms
+2025-04-09 23:05:11.011 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico - null null
+2025-04-09 23:05:11.018 +08:00 [WRN] Failed to determine the https port for redirect.
+2025-04-09 23:05:11.037 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/favicon.ico - 404 0 null 25.721ms
+2025-04-09 23:05:11.040 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/favicon.ico, Response status code: 404
+2025-04-09 23:05:29.936 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:29.951 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:29.955 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:29.956 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 20.1466ms
+2025-04-09 23:05:31.338 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:31.347 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:31.348 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:31.351 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 12.8851ms
+2025-04-09 23:05:31.386 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:31.394 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:31.397 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:31.398 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 11.8623ms
+2025-04-09 23:05:32.068 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:32.073 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:32.073 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:32.074 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 6.3781ms
+2025-04-09 23:05:32.125 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:32.128 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:32.129 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:32.131 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 5.8879ms
+2025-04-09 23:05:32.603 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:32.608 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:32.609 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:32.610 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 6.6013ms
+2025-04-09 23:05:33.861 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:33.866 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:33.867 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:33.868 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 6.5994ms
+2025-04-09 23:05:34.362 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:34.367 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:34.369 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:34.371 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 8.3418ms
+2025-04-09 23:05:34.950 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:34.953 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:34.954 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:34.956 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 5.3446ms
+2025-04-09 23:05:35.412 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:05:35.419 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:05:35.420 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:05:35.422 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 10.2213ms
+2025-04-09 23:06:03.016 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/v2/auth/register - application/json 46
+2025-04-09 23:06:03.026 +08:00 [INF] Multiple candidate actions were found, but none matched the requested service API version '2'. Candidate actions: MyApiProject.Controllers.AuthController.Register (TakeHomeAPI)
+2025-04-09 23:06:03.031 +08:00 [INF] Executing endpoint 'Microsoft.AspNetCore.Http.Endpoint'
+2025-04-09 23:06:03.037 +08:00 [INF] Executing ObjectResult, writing value of type '<>f__AnonymousType0`1[[<>f__AnonymousType1`3[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[<>f__AnonymousType2`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]], Microsoft.AspNetCore.Mvc.Versioning, Version=5.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]], Microsoft.AspNetCore.Mvc.Versioning, Version=5.1.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60]]'.
+2025-04-09 23:06:03.063 +08:00 [INF] Executed endpoint 'Microsoft.AspNetCore.Http.Endpoint'
+2025-04-09 23:06:03.065 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/v2/auth/register - 400 null application/json; charset=utf-8 49.08ms
+2025-04-09 23:06:11.736 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/v1/auth/register - application/json 46
+2025-04-09 23:06:11.742 +08:00 [INF] Executing endpoint 'MyApiProject.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-09 23:06:11.764 +08:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TakeHomeAPI.Models.RegisterRequest) on controller MyApiProject.Controllers.AuthController (TakeHomeAPI).
+2025-04-09 23:06:12.240 +08:00 [INF] Executed action MyApiProject.Controllers.AuthController.Register (TakeHomeAPI) in 470.7069ms
+2025-04-09 23:06:12.242 +08:00 [INF] Executed endpoint 'MyApiProject.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-09 23:06:12.244 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Keyword not supported: 'userid'.
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder.GetIndex(String keyword)
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder..ctor(String connectionString)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.<>c.<get_IsMultipleActiveResultSetsEnabled>b__7_0(String cs)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.get_IsMultipleActiveResultSetsEnabled()
+   at Microsoft.EntityFrameworkCore.SqlServer.Query.Internal.SqlServerCompiledQueryCacheKeyGenerator.GenerateCacheKey(Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteCore[TResult](Expression query, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, LambdaExpression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.AnyAsync[TSource](IQueryable`1 source, Expression`1 predicate, CancellationToken cancellationToken)
+   at MyApiProject.Controllers.AuthController.Register(RegisterRequest request) in C:\Users\ARK\source\repos\TakeHomeAPI\Controllers\AuthController.cs:line 34
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-04-09 23:06:12.282 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/v1/auth/register - 500 null text/plain; charset=utf-8 546.4249ms
+2025-04-09 23:06:34.092 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/vasdaddd/auth/register - application/json 46
+2025-04-09 23:06:34.096 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/vasdaddd/auth/register - 404 0 null 3.6767ms
+2025-04-09 23:06:34.098 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST http://localhost:5000/api/vasdaddd/auth/register, Response status code: 404
+2025-04-09 23:06:51.904 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/vasdaddd/auth/register - application/json 46
+2025-04-09 23:06:51.907 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/vasdaddd/auth/register - 404 0 null 2.5413ms
+2025-04-09 23:06:51.912 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: POST http://localhost:5000/api/vasdaddd/auth/register, Response status code: 404
+2025-04-09 23:07:20.905 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/vcxvcvxcv/products - null null
+2025-04-09 23:07:20.909 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/vcxvcvxcv/products - 404 0 null 3.4967ms
+2025-04-09 23:07:20.911 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5000/api/vcxvcvxcv/products, Response status code: 404
+2025-04-09 23:07:33.513 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v2/products - null null
+2025-04-09 23:07:33.517 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:07:33.518 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:07:33.519 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v2/products - 401 0 null 6.0705ms
+2025-04-09 23:07:41.063 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v1/products - null null
+2025-04-09 23:07:41.068 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:07:41.069 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:07:41.070 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v1/products - 401 0 null 7.2939ms
+2025-04-09 23:08:00.064 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v1/products - null null
+2025-04-09 23:08:00.067 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:08:00.068 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:08:00.069 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v1/products - 401 0 null 5.1576ms
+2025-04-09 23:08:01.722 +08:00 [INF] Request starting HTTP/1.1 GET http://localhost:5000/api/v1/products - null null
+2025-04-09 23:08:01.725 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-09 23:08:01.727 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-09 23:08:01.728 +08:00 [INF] Request finished HTTP/1.1 GET http://localhost:5000/api/v1/products - 401 0 null 6.1607ms
+2025-04-09 23:08:12.865 +08:00 [INF] Request starting HTTP/1.1 POST http://localhost:5000/api/v1/auth/login - application/json 50
+2025-04-09 23:08:12.870 +08:00 [INF] Executing endpoint 'MyApiProject.Controllers.AuthController.Login (TakeHomeAPI)'
+2025-04-09 23:08:12.877 +08:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(TakeHomeAPI.Models.LoginRequest) on controller MyApiProject.Controllers.AuthController (TakeHomeAPI).
+2025-04-09 23:08:12.905 +08:00 [INF] Executed action MyApiProject.Controllers.AuthController.Login (TakeHomeAPI) in 24.6762ms
+2025-04-09 23:08:12.907 +08:00 [INF] Executed endpoint 'MyApiProject.Controllers.AuthController.Login (TakeHomeAPI)'
+2025-04-09 23:08:12.908 +08:00 [ERR] An unhandled exception has occurred while executing the request.
+System.ArgumentException: Keyword not supported: 'userid'.
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder.GetIndex(String keyword)
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder.set_Item(String keyword, Object value)
+   at System.Data.Common.DbConnectionStringBuilder.set_ConnectionString(String value)
+   at Microsoft.Data.SqlClient.SqlConnectionStringBuilder..ctor(String connectionString)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.<>c.<get_IsMultipleActiveResultSetsEnabled>b__7_0(String cs)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerConnection.get_IsMultipleActiveResultSetsEnabled()
+   at Microsoft.EntityFrameworkCore.SqlServer.Query.Internal.SqlServerCompiledQueryCacheKeyGenerator.GenerateCacheKey(Expression query, Boolean async)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteCore[TResult](Expression query, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.ExecuteAsync[TResult](Expression query, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.ExecuteAsync[TResult](Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, Expression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ExecuteAsync[TSource,TResult](MethodInfo operatorMethodInfo, IQueryable`1 source, LambdaExpression expression, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.FirstOrDefaultAsync[TSource](IQueryable`1 source, Expression`1 predicate, CancellationToken cancellationToken)
+   at MyApiProject.Controllers.AuthController.Login(LoginRequest request) in C:\Users\ARK\source\repos\TakeHomeAPI\Controllers\AuthController.cs:line 58
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-04-09 23:08:12.915 +08:00 [INF] Request finished HTTP/1.1 POST http://localhost:5000/api/v1/auth/login - 500 null text/plain; charset=utf-8 49.6405ms

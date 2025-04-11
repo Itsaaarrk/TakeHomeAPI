@@ -1,0 +1,135 @@
+2025-04-11 10:19:59.714 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-11 10:19:59.947 +08:00 [INF] Request starting HTTP/2 GET https://localhost:44374/ - null null
+2025-04-11 10:20:00.055 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-11 10:20:00.055 +08:00 [INF] Hosting environment: Development
+2025-04-11 10:20:00.055 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-11 10:20:00.703 +08:00 [INF] Request finished HTTP/2 GET https://localhost:44374/ - 404 null null 759.7255ms
+2025-04-11 10:20:00.715 +08:00 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:44374/, Response status code: 404
+2025-04-11 10:20:40.874 +08:00 [INF] User profile is available. Using 'C:\Users\ARK\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-04-11 10:20:41.081 +08:00 [INF] Now listening on: https://localhost:5000
+2025-04-11 10:20:41.149 +08:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-04-11 10:20:41.151 +08:00 [INF] Hosting environment: Development
+2025-04-11 10:20:41.151 +08:00 [INF] Content root path: C:\Users\ARK\source\repos\TakeHomeAPI
+2025-04-11 10:22:11.252 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/index.html - null null
+2025-04-11 10:22:11.405 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/index.html - 200 null text/html;charset=utf-8 158.3679ms
+2025-04-11 10:22:11.424 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui.css - null null
+2025-04-11 10:22:11.430 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/_vs/browserLink - null null
+2025-04-11 10:22:11.427 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/index.css - null null
+2025-04-11 10:22:11.427 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - null null
+2025-04-11 10:22:11.427 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui-standalone-preset.js - null null
+2025-04-11 10:22:11.427 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/index.js - null null
+2025-04-11 10:22:11.428 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/swagger-ui-bundle.js - null null
+2025-04-11 10:22:11.447 +08:00 [INF] Sending file. Request path: '/index.css'. Physical path: 'N/A'
+2025-04-11 10:22:11.449 +08:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2025-04-11 10:22:11.451 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/_framework/aspnetcore-browser-refresh.js - 200 16507 application/javascript; charset=utf-8 23.014ms
+2025-04-11 10:22:11.458 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/index.js - 200 null application/javascript;charset=utf-8 31.0203ms
+2025-04-11 10:22:11.460 +08:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2025-04-11 10:22:11.463 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/index.css - 200 202 text/css 35.2359ms
+2025-04-11 10:22:11.465 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui.css - 200 154948 text/css 42.1046ms
+2025-04-11 10:22:11.473 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui-standalone-preset.js - 200 229223 text/javascript 45.2222ms
+2025-04-11 10:22:11.475 +08:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2025-04-11 10:22:11.475 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/_vs/browserLink - 200 null text/javascript; charset=UTF-8 45.506ms
+2025-04-11 10:22:11.485 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/swagger-ui-bundle.js - 200 1466741 text/javascript 57.607ms
+2025-04-11 10:22:11.614 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-11 10:22:11.625 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 11.4509ms
+2025-04-11 10:22:11.628 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/favicon-32x32.png - null null
+2025-04-11 10:22:11.634 +08:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-04-11 10:22:11.636 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/favicon-32x32.png - 200 628 image/png 7.6576ms
+2025-04-11 10:22:16.188 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/v2/swagger.json - null null
+2025-04-11 10:22:16.195 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/v2/swagger.json - 200 null application/json;charset=utf-8 7.4515ms
+2025-04-11 10:22:17.052 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - null null
+2025-04-11 10:22:17.058 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 6.5397ms
+2025-04-11 10:22:23.640 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5000/register - application/json 50
+2025-04-11 10:22:23.725 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-11 10:22:23.750 +08:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TakeHomeAPI.Models.RegisterRequest) on controller TakeHomeAPI.Controllers.AuthController (TakeHomeAPI).
+2025-04-11 10:22:25.120 +08:00 [INF] Executed DbCommand (51ms) [Parameters=[@__request_Username_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[Username] = @__request_Username_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-11 10:22:25.149 +08:00 [INF] Executing BadRequestObjectResult, writing value of type 'System.String'.
+2025-04-11 10:22:25.155 +08:00 [INF] Executed action TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI) in 1398.5222ms
+2025-04-11 10:22:25.157 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-11 10:22:25.164 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5000/register - 400 null text/plain; charset=utf-8 1523.9344ms
+2025-04-11 10:22:36.941 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5000/register - application/json 54
+2025-04-11 10:22:36.948 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-11 10:22:36.949 +08:00 [INF] Route matched with {action = "Register", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Register(TakeHomeAPI.Models.RegisterRequest) on controller TakeHomeAPI.Controllers.AuthController (TakeHomeAPI).
+2025-04-11 10:22:36.962 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__request_Username_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[Username] = @__request_Username_0) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2025-04-11 10:22:37.058 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([PasswordHash], [Username])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1);
+2025-04-11 10:22:37.083 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2025-04-11 10:22:37.085 +08:00 [INF] Executed action TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI) in 133.4562ms
+2025-04-11 10:22:37.087 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.AuthController.Register (TakeHomeAPI)'
+2025-04-11 10:22:37.088 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5000/register - 200 null text/plain; charset=utf-8 146.4825ms
+2025-04-11 10:22:44.721 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5000/login - application/json 54
+2025-04-11 10:22:44.727 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.AuthController.Login (TakeHomeAPI)'
+2025-04-11 10:22:44.731 +08:00 [INF] Route matched with {action = "Login", controller = "Auth"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Login(TakeHomeAPI.Models.LoginRequest) on controller TakeHomeAPI.Controllers.AuthController (TakeHomeAPI).
+2025-04-11 10:22:44.824 +08:00 [INF] Executed DbCommand (2ms) [Parameters=[@__request_Username_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[PasswordHash], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__request_Username_0
+2025-04-11 10:22:44.850 +08:00 [INF] Executing OkObjectResult, writing value of type '<>f__AnonymousType0`1[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+2025-04-11 10:22:44.854 +08:00 [INF] Executed action TakeHomeAPI.Controllers.AuthController.Login (TakeHomeAPI) in 119.9531ms
+2025-04-11 10:22:44.855 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.AuthController.Login (TakeHomeAPI)'
+2025-04-11 10:22:44.856 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5000/login - 200 null application/json; charset=utf-8 135.5188ms
+2025-04-11 10:22:59.950 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/api/v1/products - null null
+2025-04-11 10:22:59.961 +08:00 [INF] Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user.
+2025-04-11 10:22:59.966 +08:00 [INF] AuthenticationScheme: Bearer was challenged.
+2025-04-11 10:22:59.967 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/api/v1/products - 401 0 null 17.4527ms
+2025-04-11 10:23:12.110 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/api/v1/products - null null
+2025-04-11 10:23:12.154 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI)'
+2025-04-11 10:23:12.160 +08:00 [INF] Route matched with {action = "GetProducts", controller = "ProductsV"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProducts() on controller TakeHomeAPI.Controllers.ProductsV1Controller (TakeHomeAPI).
+2025-04-11 10:23:12.183 +08:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[ProductID], [p].[ProductName], [p].[Description]
+FROM [Products] AS [p]
+2025-04-11 10:23:12.189 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TakeHomeAPI.Models.ProductResponseV1, TakeHomeAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-11 10:23:12.193 +08:00 [INF] Executed action TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI) in 30.9203ms
+2025-04-11 10:23:12.194 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.ProductsV1Controller.GetProducts (TakeHomeAPI)'
+2025-04-11 10:23:12.197 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/api/v1/products - 200 null application/json; charset=utf-8 87.0682ms
+2025-04-11 10:23:16.159 +08:00 [INF] Request starting HTTP/2 GET https://localhost:5000/api/v2/products - null null
+2025-04-11 10:23:16.166 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI)'
+2025-04-11 10:23:16.170 +08:00 [INF] Route matched with {action = "GetProducts", controller = "ProductsV"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetProducts() on controller TakeHomeAPI.Controllers.ProductsV2Controller (TakeHomeAPI).
+2025-04-11 10:23:16.255 +08:00 [WRN] Compiling a query which loads related collections for more than one collection navigation, either via 'Include' or through projection, but no 'QuerySplittingBehavior' has been configured. By default, Entity Framework will use 'QuerySplittingBehavior.SingleQuery', which can potentially result in slow query performance. See https://go.microsoft.com/fwlink/?linkid=2134277 for more information. To identify the query that's triggering this warning call 'ConfigureWarnings(w => w.Throw(RelationalEventId.MultipleCollectionIncludeWarning))'.
+2025-04-11 10:23:16.292 +08:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [p].[ProductID], [p].[Description], [p].[ProductName], [s].[PackagingID], [s].[PackagingName], [s].[PackagingType], [s].[ParentPackagingID], [s].[ProductID], [s].[ItemID], [s].[ItemName], [s].[PackagingID0], [s].[PackagingID1], [s].[PackagingName0], [s].[PackagingType0], [s].[ParentPackagingID0], [s].[ProductID0]
+FROM [Products] AS [p]
+LEFT JOIN (
+    SELECT [p0].[PackagingID], [p0].[PackagingName], [p0].[PackagingType], [p0].[ParentPackagingID], [p0].[ProductID], [i].[ItemID], [i].[ItemName], [i].[PackagingID] AS [PackagingID0], [p1].[PackagingID] AS [PackagingID1], [p1].[PackagingName] AS [PackagingName0], [p1].[PackagingType] AS [PackagingType0], [p1].[ParentPackagingID] AS [ParentPackagingID0], [p1].[ProductID] AS [ProductID0]
+    FROM [Packagings] AS [p0]
+    LEFT JOIN [Items] AS [i] ON [p0].[PackagingID] = [i].[PackagingID]
+    LEFT JOIN [Packagings] AS [p1] ON [p0].[PackagingID] = [p1].[ParentPackagingID]
+) AS [s] ON [p].[ProductID] = [s].[ProductID]
+ORDER BY [p].[ProductID], [s].[PackagingID], [s].[ItemID]
+2025-04-11 10:23:16.337 +08:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[TakeHomeAPI.Models.ProductResponseV2, TakeHomeAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2025-04-11 10:23:16.342 +08:00 [INF] Executed action TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI) in 169.2275ms
+2025-04-11 10:23:16.343 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.ProductsV2Controller.GetProducts (TakeHomeAPI)'
+2025-04-11 10:23:16.344 +08:00 [INF] Request finished HTTP/2 GET https://localhost:5000/api/v2/products - 200 null application/json; charset=utf-8 185.1756ms
+2025-04-11 10:23:45.910 +08:00 [INF] Request starting HTTP/2 POST https://localhost:5000/api/v1/products - application/json 93
+2025-04-11 10:23:45.919 +08:00 [INF] Executing endpoint 'TakeHomeAPI.Controllers.ProductsV1Controller.AddProduct (TakeHomeAPI)'
+2025-04-11 10:23:45.925 +08:00 [INF] Route matched with {action = "AddProduct", controller = "ProductsV"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] AddProduct(TakeHomeAPI.Models.ProductResponseV1) on controller TakeHomeAPI.Controllers.ProductsV1Controller (TakeHomeAPI).
+2025-04-11 10:23:45.949 +08:00 [INF] Executed DbCommand (5ms) [Parameters=[@p0='?' (Size = 255), @p1='?' (Size = 100)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Products] ([Description], [ProductName])
+OUTPUT INSERTED.[ProductID]
+VALUES (@p0, @p1);
+2025-04-11 10:23:45.958 +08:00 [INF] Executing CreatedAtActionResult, writing value of type 'TakeHomeAPI.Models.ProductResponseV1'.
+2025-04-11 10:23:45.979 +08:00 [INF] Executed action TakeHomeAPI.Controllers.ProductsV1Controller.AddProduct (TakeHomeAPI) in 51.2701ms
+2025-04-11 10:23:45.983 +08:00 [INF] Executed endpoint 'TakeHomeAPI.Controllers.ProductsV1Controller.AddProduct (TakeHomeAPI)'
+2025-04-11 10:23:45.985 +08:00 [INF] Request finished HTTP/2 POST https://localhost:5000/api/v1/products - 201 null application/json; charset=utf-8 74.8628ms
+2025-04-11 10:24:10.699 +08:00 [INF] Application is shutting down...
