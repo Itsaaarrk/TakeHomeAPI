@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  myapiproject:
+    image: takehomeapi:latest
+    build: .
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=localhost;Database=TakeHomeAPI;User Id=sa;Password=p@ssw0rd;TrustServerCertificate=True;Encrypt=False;
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+      SA_PASSWORD: "p@ssw0rd"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"

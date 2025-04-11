@@ -1,0 +1,6 @@
+@TakeHomeAPI_HostAddress = http://localhost:5197
+
+GET {{TakeHomeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
